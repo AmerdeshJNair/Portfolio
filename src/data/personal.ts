@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "Amerdesh J. Nair",
+  name: "Amerdesh J Nair",
   title: "Computer Science × Data Analytics × AI/ML × Defence Technology",
   email: "amerdeshjnair@gmail.com",
   linkedin: "https://www.linkedin.com/in/amerdesh",
